@@ -144,3 +144,9 @@ To use this code:
 3. Test with different GIF files
 
 This implementation provides a basic but functional GIF conversion solution that can be extended based on specific needs.
+
+- https://github.com/convert-apps/avif-to-jpg-png-webp
+- https://github.com/convert-apps/webp-to-png-jpg-gif
+- https://github.com/convert-apps/jpg-to-png-webp-jpeg
+- https://github.com/convert-apps/png-to-jpg-webp-ico
+- https://github.com/convert-apps/gif-to-jpg-png-webp
